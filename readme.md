@@ -17,7 +17,7 @@ Python's improved support for libraries (such as pandas and scikit-learn) has ma
 
 The key concepts you'll need to perform data analytics using Python are organised in the following chapters, in the form of Jupyter notebooks hosted on GitHub:
 
-    + NumPy basics
+    + [NumPy basics(https://github.com/colintanwh/python-analytics/blob/master/numpy.ipynb)
     + `pandas` Data Structures
     + Data Loading, Storage and File Formats
     + Data Cleaning and Preparation

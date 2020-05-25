@@ -1,4 +1,4 @@
-# Data Analytics in Python
+# Data Analysis in Python
 
    This site seeks to introduce the key concepts in data analytics using Python programming language. The goal of this site serves as a reference source for those (myself included) who needs to recall some of the key concepts in data analytics using Python. It also serves as a learning site for those who wishes to grasp the basics of data analytics quickly.
 
@@ -17,7 +17,7 @@ Python's improved support for libraries (such as pandas and scikit-learn) has ma
 
 The key concepts you'll need to perform data analytics using Python are organised in the following chapters, in the form of Jupyter notebooks hosted on GitHub:
 
-   + [NumPy basics](https://github.com/colintanwh/python-analytics/blob/master/numpy.ipynb)
+   + [NumPy basics](https://github.com/colintanwh/python-analysis/blob/master/numpy.ipynb)
    + `pandas` Data Structures
    + Data Loading, Storage and File Formats
    + Data Cleaning and Preparation

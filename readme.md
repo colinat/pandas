@@ -17,9 +17,9 @@ Python's improved support for libraries (such as pandas and scikit-learn) has ma
 
 The key concepts you'll need to perform data analysis using Python are organised in the following chapters, in the form of Jupyter notebooks hosted on GitHub:
 
-   + [NumPy basics](https://github.com/colintanwh/python-analysis/blob/master/numpy.ipynb)
-   + [`pandas` Data Structures](https://github.com/colintanwh/python-analysis/blob/master/pandas.ipynb)
-   + [Data Loading, Storage and File Formats](https://github.com/colintanwh/python-analysis/blob/master/dataload.ipynb)
+   + [NumPy basics](https://github.com/colintwh/python-analysis/blob/master/numpy.ipynb)
+   + [`pandas` Data Structures](https://github.com/colintwh/python-analysis/blob/master/pandas.ipynb)
+   + [Data Loading, Storage and File Formats](https://github.com/colintwh/python-analysis/blob/master/dataload.ipynb)
    + Data Cleaning and Preparation
    + Data Wrangling
    + Data Visualisation

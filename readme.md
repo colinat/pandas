@@ -6,7 +6,7 @@
 
 ### Python basics
 
-It is assumed you already know the basics of Python before progressing into this topic. You can check out another of my site [here](https://colintanwh.github.io/python-basics/) to pick up Python basics otherwise.
+It is assumed you already know the basics of Python before progressing into this topic. You can check out another of my site [here](https://colintwh.github.io/python-basics/) to pick up Python basics otherwise.
 
 ### Why Python for Data Analysis?
 

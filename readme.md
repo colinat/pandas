@@ -21,7 +21,7 @@ The key concepts you'll need to perform data analysis using Python are organised
    + [`pandas` Data Structures](https://github.com/colintwh/python-analysis/blob/master/pandas.ipynb)
    + [Data Loading, Storage and File Formats](https://github.com/colintwh/python-analysis/blob/master/dataload.ipynb)
    + [Data Cleaning and Preparation](https://github.com/colintwh/python-analysis/blob/master/dataclean.ipynb)
-   + Data Wrangling
+   + [Data Wrangling: Join, Combine, Reshape](https://github.com/colintwh/python-analysis/blob/master/datawrang.ipynb)
    + Data Visualisation
    + Time Series
    + Modelling

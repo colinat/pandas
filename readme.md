@@ -20,12 +20,12 @@ Python's improved support for libraries (such as pandas and scikit-learn) has ma
 
 The basic concepts you'll need using pandas for basic data analysis are organised in the following chapters:
 
-1. [Creating, Reading, Writing](https://github.com/colintwh/pandas/blob/master/readdata.ipynb)
-2. [Indexing, Selecting and Assigning](https://github.com/colintwh/pandas/blob/master/indexing.ipynb)
-3. [Summary Functions and Maps](https://github.com/colintwh/pandas/blob/master/summary_maps.ipynb)
-4. [Grouping and Sorting](https://github.com/colintwh/pandas/blob/master/group_sort.ipynb)
-5. [Data Types and Missing Values](https://github.com/colintwh/pandas/blob/master/missing_val.ipynb)
-6. [Renaming and Combining](https://github.com/colintwh/pandas/blob/master/rename_combine.ipynb)
+1. [Creating, Reading, Writing](https://github.com/colinat/pandas/blob/master/readdata.ipynb)
+2. [Indexing, Selecting and Assigning](https://github.com/colinat/pandas/blob/master/indexing.ipynb)
+3. [Summary Functions and Maps](https://github.com/colinat/pandas/blob/master/summary_maps.ipynb)
+4. [Grouping and Sorting](https://github.com/colinat/pandas/blob/master/group_sort.ipynb)
+5. [Data Types and Missing Values](https://github.com/colinat/pandas/blob/master/missing_val.ipynb)
+6. [Renaming and Combining](https://github.com/colinat/pandas/blob/master/rename_combine.ipynb)
 
 
 ## Reference source
